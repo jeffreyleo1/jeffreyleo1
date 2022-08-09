@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeffreyleo1
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python and Pygame
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Game development
+- 🌱 I’m currently learning Unity and Pygame
+- 💞️ I’m looking to collaborate on any game development practices
 - 📫 How to reach me ...
 
 <!---
